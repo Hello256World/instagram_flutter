@@ -1,6 +1,6 @@
 # instagram_flutter
 
-A new Flutter project.
+An Instagram-like UI with flutter
 
 ## Getting Started
 
